@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian vault config (local/personal settings)
+.obsidian/
+
+# Working directories created when using these skills
+# (may contain real interview data — never commit)
+interviews/
+analysis/
+memos/
