@@ -1,8 +1,11 @@
-**English:** This repository contains two Claude Code skills for product UX research workflows. `product-interview-design` guides you through designing a product evaluation study from scratch — from research framing to participant briefing — using a phase-gated process that enforces the correct order of design decisions. `product-interview-analyst` guides you through systematic qualitative analysis of interview data, producing prioritized findings and mechanism-level propositions in a format ready for product and design teams. Both skills are built for commercial contexts where fast turnaround and actionable outputs are the primary constraints.
+# UXR Skills
+
+> This repository contains two Claude Code skills for product UX research workflows.
+> `product-interview-design` guides you through designing a product evaluation study from scratch — from research framing to participant briefing — using a phase-gated process that enforces the correct order of design decisions.
+> `product-interview-analyst` guides you through systematic qualitative analysis of interview data, producing prioritized findings and mechanism-level propositions in a format ready for product and design teams.
+> Both skills are built for commercial contexts where fast turnaround and actionable outputs are the primary constraints.
 
 ---
-
-# UXR Skills
 
 两个 Claude Code Skill，覆盖产品评测研究的设计与分析全流程。
 
