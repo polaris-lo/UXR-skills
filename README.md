@@ -1,13 +1,20 @@
-# UXR Skills
+# UX Research Skills Demonstration
 
-> This repository contains two Claude Code skills for product UX research workflows.
-> `product-interview-design` guides you through designing a product evaluation study from scratch — from research framing to participant briefing — using a phase-gated process that enforces the correct order of design decisions.
-> `product-interview-analyst` guides you through systematic qualitative analysis of interview data, producing prioritized findings and mechanism-level propositions in a format ready for product and design teams.
-> Both skills are built for commercial contexts where fast turnaround and actionable outputs are the primary constraints.
+> This repository demonstrates several methodological workflows used in UX research and data-driven product analysis, including:
+>
+> - research workflow reconstruction
+> - structured insight generation
+> - research artifact organization
+> - reproducible analysis pipeline
 
 ---
 
-两个 Claude Code Skill，覆盖产品评测研究的设计与分析全流程。
+本仓库展示了若干用于用户体验研究与数据驱动产品分析的方法论工作流，包括：
+
+- 研究流程结构化重建
+- 洞察系统性生成
+- 研究交付物组织管理
+- 可复现的分析流程
 
 ## Skills
 
